@@ -1,1 +1,1 @@
-# 50_dsays_of_data_analysis_challenge
+# 50_days_of_data_analysis_challenge
